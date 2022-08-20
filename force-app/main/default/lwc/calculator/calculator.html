@@ -1,0 +1,22 @@
+<template>
+    
+    <lightning-card title="Calculator Demo" >
+        <lightning-record-edit-form>
+
+        <div class="row">
+            <lightning-input   label="Input#1" value={firNum} onchange={handlechange1}></lightning-input>
+            <lightning-input  label="Input#2" value={secNNum} onchange={handlechange2}></lightning-input>
+            <lightning-button name="addition" label="Add" value={answer} onclick={handleclick}></lightning-button>
+            <lightning-button name="subtraction" label="Sub" value={answer} onclick={dosub}></lightning-button>
+            <lightning-button name="multiplication" label="Mul" value={answer} onclick={domul}></lightning-button>
+            <lightning-button name="division" label="Div" value={answer} onclick={dodiv}></lightning-button>
+            <lightning-button name="clear"  label="Clear"  onclick={handleReset}></lightning-button>
+           
+        </div>
+        Answer : {answer}
+
+
+    </lightning-record-edit-form>
+    </lightning-card>
+
+</template>
