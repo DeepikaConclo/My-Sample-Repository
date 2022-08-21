@@ -1,0 +1,30 @@
+<template>
+
+    <lightning-card>
+        <lightning-button label="Start" onclick={handleClick} variant="brand"></lightning-button>
+
+        <c-child-component onprogressfinished={handleFinish} ></c-child-component>
+
+    </lightning-card>
+   
+</template>
+
+<!-- <lightning-card title="Parent child communication"> onreset={handleFinish}
+        
+        <template for:each={employees} for:item='employee'>
+            <div key={employee.id}></div>
+
+        </template>
+        
+        <iframe width="400" height="350" src="https://www.youtube.com/embed/2V_btjWlD10"></iframe>
+        <lightning-input label="Enter the slider value" onchange={handleChange}></lightning-input>
+
+    <c-child-component maxslidervalue={maxslidervalue} slidervalue={slidervalue}> 
+
+    </c-child-component>
+
+    <div slot="actions">
+        <lightning-button label="Reset" onclick={handleClick} variant="brand"></lightning-button>
+    </div>
+
+</lightning-card> -->

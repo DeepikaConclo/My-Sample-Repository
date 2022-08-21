@@ -1,0 +1,5 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+	<aura:attribute name="Account" type="Account" access="Public">  </aura:attribute>
+    <lightning:input type="string" name="input5" label="string"/>
+    <lightning:button variant="brand" label="Get Record"  onclick="{! c.getrecords }" />
+</aura:component>

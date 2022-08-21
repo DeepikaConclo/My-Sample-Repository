@@ -1,0 +1,6 @@
+<aura:component implements="force:appHostable" >
+    
+    <h1>Welcome to lightning aura component</h1>
+     <lightning:button variant="success" label="Success" title="Success"/>
+	
+</aura:component>

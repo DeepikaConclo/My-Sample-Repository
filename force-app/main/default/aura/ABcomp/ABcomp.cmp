@@ -1,0 +1,7 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+	<aura:attribute name="messagefromchild" type="string" access="public"></aura:attribute>
+    <aura:handler name="Componenteventdemo" event="c:Componenteventdemo" action="{!c.getmessage}"></aura:handler> 
+    {!v.messagefromchild}
+    <c:Acomp></c:Acomp>
+    <c:Bcomp></c:Bcomp>
+</aura:component>
