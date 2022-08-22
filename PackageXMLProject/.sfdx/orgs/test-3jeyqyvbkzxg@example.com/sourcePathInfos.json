@@ -1,0 +1,209 @@
+{
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1646115335984,
+    "changeTime": 1646115335984,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1646115335984,
+    "changeTime": 1646115335984,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1646115336514,
+    "changeTime": 1646115336514,
+    "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\applications": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\applications",
+    "isDirectory": true,
+    "modifiedTime": 1646115336008,
+    "changeTime": 1646115336008,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\aura": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\aura",
+    "isDirectory": true,
+    "modifiedTime": 1646115336514,
+    "changeTime": 1646115336514,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\classes": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1646115336008,
+    "changeTime": 1646115336008,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\contentassets": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\contentassets",
+    "isDirectory": true,
+    "modifiedTime": 1646115336008,
+    "changeTime": 1646115336008,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\flexipages": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\flexipages",
+    "isDirectory": true,
+    "modifiedTime": 1646115336008,
+    "changeTime": 1646115336008,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\layouts": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1646115336008,
+    "changeTime": 1646115336008,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\lwc": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1646115336514,
+    "changeTime": 1646115336514,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1646115336008,
+    "changeTime": 1646115336008,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\permissionsets": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\permissionsets",
+    "isDirectory": true,
+    "modifiedTime": 1646119544515,
+    "changeTime": 1646119544515,
+    "contentHash": "8310f0b0e96147f313a216883f625cdd5ef2650e",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\staticresources": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\staticresources",
+    "isDirectory": true,
+    "modifiedTime": 1646115336016,
+    "changeTime": 1646115336016,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\tabs": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1646115336016,
+    "changeTime": 1646115336016,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\triggers": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\triggers",
+    "isDirectory": true,
+    "modifiedTime": 1646115336016,
+    "changeTime": 1646115336016,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject",
+    "isDirectory": true,
+    "modifiedTime": 1646115754059,
+    "changeTime": 1646115754059,
+    "contentHash": "c4fd235f71850e2953483216d14937ec557e409c",
+    "state": "u",
+    "isWorkspace": true
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects\\Sticker__c": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects\\Sticker__c",
+    "isDirectory": true,
+    "modifiedTime": 1646119339606,
+    "changeTime": 1646119339606,
+    "contentHash": "edbce86c9877d7e4ab48df7785be5ae595d5829c",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects\\Sticker__c\\listViews": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects\\Sticker__c\\listViews",
+    "isDirectory": true,
+    "modifiedTime": 1646119339598,
+    "changeTime": 1646119339598,
+    "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects\\Sticker__c\\Sticker__c.object-meta.xml": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects\\Sticker__c\\Sticker__c.object-meta.xml",
+    "size": 5174,
+    "modifiedTime": 1646119339654,
+    "changeTime": 1646119339654,
+    "contentHash": "35d535288f46d85f09802d4456cd49aac7c20ae5",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects\\Sticker__c\\listViews\\All.listView-meta.xml": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\objects\\Sticker__c\\listViews\\All.listView-meta.xml",
+    "size": 204,
+    "modifiedTime": 1646119339654,
+    "changeTime": 1646119339654,
+    "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ListView"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\tabs\\Sticker__c.tab-meta.xml": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\tabs\\Sticker__c.tab-meta.xml",
+    "size": 194,
+    "modifiedTime": 1646119339686,
+    "changeTime": 1646119339686,
+    "contentHash": "6797327a4e23eaa8549111f10a2f8e8840a88c8e",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomTab"
+  },
+  "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\permissionsets\\Sticker_Manager.permissionset-meta.xml": {
+    "sourcePath": "C:\\Users\\lenovo\\Desktop\\Superbadge\\LearningLWC\\PackageXMLProject\\force-app\\main\\default\\permissionsets\\Sticker_Manager.permissionset-meta.xml",
+    "size": 655,
+    "modifiedTime": 1646119875579,
+    "changeTime": 1646119875579,
+    "contentHash": "1397d04a96efdae1211ca4c81a9fff6de9952e0d",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "PermissionSet"
+  }
+}
