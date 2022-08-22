@@ -1,0 +1,13 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+	
+    <aura:attribute name="messagefromParent" type="string" access="public"></aura:attribute>
+  	<aura:method name="ChildMethod" action="{!c.displayMessage}">
+     <aura:attribute name="showMessage" type="string"></aura:attribute>
+    </aura:method> 
+   
+    <lightning:card>
+    	<h1> B component</h1>
+        <lightning:input label="Acomp message" value="{!v.messagefromParent}" />
+        
+    </lightning:card>
+</aura:component>

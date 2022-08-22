@@ -1,0 +1,41 @@
+<template>
+<lightning-card title="Data Binding">
+
+    <lightning-record-edit-form object-api-name="Account" record-id="0015j00000hIqMEAA0"
+    onsuccess={successHandler}
+    onsubmit={submitHandler}
+    onerror={errorHandler}>
+
+        <div class="slds-grid slds-gutters">
+            <div class="'slds-col slds-size_6_of_12">
+                <lightning-input-field field-name={fieldList.nameField}></lightning-input-field>
+                <lightning-input-field field-name={fieldList.industryField}></lightning-input-field>
+                <lightning-input-field field-name={fieldList.phoneField}></lightning-input-field>
+
+            </div>
+            <div class="'slds-col slds-size_6_of_12">
+                <lightning-input-field field-name={fieldList.annualRevenueField} class="revenue"></lightning-input-field>
+                
+
+            </div>
+        </div>
+        <lightning-button label="Cancel" type="reset"></lightning-button>
+        <lightning-button label="Submit" type="submit"></lightning-button>
+    </lightning-record-edit-form>
+
+
+</lightning-card>
+
+</template>
+<!-- <template>
+    <lightning-card title="LWC File Upload Example" icon-name="custom:custom19">
+        <lightning-file-upload
+            label="Attach receipt"
+            name="fileUploader"
+            accept={acceptedFormats}
+            record-id={recordId}
+            onuploadfinished={handleUploadFinished}
+            multiple>
+    </lightning-file-upload>
+    </lightning-card>
+</template> -->

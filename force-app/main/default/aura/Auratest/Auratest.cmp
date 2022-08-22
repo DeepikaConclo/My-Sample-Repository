@@ -1,0 +1,13 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+	
+    <aura:attribute name="messege" type="string" default="Learing aura comp" access="public"/>      
+    <lightning:card> 
+        
+    <h1> Welcome to lightning</h1>
+    <h2 class ="blue">aura component basic class</h2>
+    <lightning:input value="{!v.message}" label="Enter a Name" />
+    
+        <lightning:button variant="brand" label="Get Record" title="Brand action" class="slds-m-around_small" onclick="{!c.myAction}"/>
+        
+    </lightning:card>
+</aura:component>

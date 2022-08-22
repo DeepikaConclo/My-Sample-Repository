@@ -1,0 +1,14 @@
+<template>
+    <lightning-card>
+        <lightning-input name="Salary" value={amount} label="Salary Amount" onchange={handleChange}></lightning-input>
+    <template iterator:employees={emp}>
+        <div key={emp.value.name}>
+            {emp.name}
+            {emp.value.salaryAmount}
+            {emp.value.position}
+
+        </div>
+    </template>
+    </lightning-card>
+</template>
+

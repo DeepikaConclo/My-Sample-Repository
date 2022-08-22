@@ -1,0 +1,9 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <aura:attribute name="messagefromchild" type="string" access="Public"/>
+    <aura:registerEvent name="Componenteventdemo" type="c:Componenteventdemo"></aura:registerEvent>
+    <lightning:card>
+    <h1>Welcome to component A</h1>
+ 	<lightning:input label="Enter Message" value="{!v.messagefromchild}" />
+        <lightning:button label="Raise event" variant="brand" onclick="{!c.raiseevent}"></lightning:button>
+        </lightning:card>
+</aura:component>
